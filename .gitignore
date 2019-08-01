@@ -1,0 +1,17 @@
+venv/
+env/
+testing/
+output/
+.vscode/
+*.ini
+*.db
+*.txt
+!requirements.txt
+!UFL.txt
+*.xz
+*.png
+!docs/*.png
+*.csv
+*.zip
+*.xlsx
+*.xls

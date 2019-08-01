@@ -1,0 +1,6 @@
+[db]
+	connection_string = dbname='iii' user='USERNAME' host='sierra-db.DOMAIN.EDU' password='PASSWORD' port=1032 sslmode='require'
+	itersize = 5000
+
+[misc]
+	output_path = ./
